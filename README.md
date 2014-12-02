@@ -1,3 +1,0 @@
-RFT
-paper source
-===
